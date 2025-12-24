@@ -7,7 +7,7 @@ Introduction
 
 Just a random guy you can find anywhere
 
-Contact: <a href="https://www.facebook.com/your.username](https://www.facebook.com/pham.duy.bang.riel">@GnaB</a>
+Contact: <a href="[https://www.facebook.com/your.username](https://www.facebook.com/pham.duy.bang.riel](https://www.facebook.com/pham.duy.bang.riel)">@GnaB</a>
 
 ## 📚 Learning
 
