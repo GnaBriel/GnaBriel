@@ -10,7 +10,7 @@ Just a random guy you can find anywhere
 Contact: 
 
 - Facebook: <a href="https://www.facebook.com/pham.duy.bang.riel"> GnaB </a>
-- Discord: <a href="https://discord.com/users/1392774822592778274"> GnaB </a>
+- Discord: <a href="https://discord.com/users/1114167119488221315"> GnaB </a>
 
 ## 📚 Learning
 
