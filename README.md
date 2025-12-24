@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm GnaB
----
+
 Introduction
----
+
 - I am a first-year student at UET - VNU - K70
 - 🌱 Duy Bằng - CN1 - K70 - UET
 - Just a random guy you can find anywhere
----
+
 ## 📚 Learning
----
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
