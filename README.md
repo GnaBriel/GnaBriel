@@ -15,7 +15,6 @@ Contact:
 ## 📚 Learning
 
 <p align="left">
-## 📘 Learning
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" width="40"/>
